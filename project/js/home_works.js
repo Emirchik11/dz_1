@@ -22,7 +22,7 @@
 };
 
 
-
+// HOME WORK
 
     const parentBlock = document.querySelector('.parent_block');
     const childBlock = document.querySelector('.child_block');
