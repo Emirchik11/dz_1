@@ -22,7 +22,7 @@
 };
 
 
-// HOME WORK
+// HOME WORK 1 part 2
 
     const parentBlock = document.querySelector('.parent_block');
     const childBlock = document.querySelector('.child_block');
